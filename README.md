@@ -75,24 +75,6 @@ docker-compose ps  # Check all services are running
 
 ---
 
-## 🎬 **Demo Guide**
-
-See [DEMO_SCRIPT.md](./DEMO_SCRIPT.md) for a complete human-friendly demo presentation script with:
-- ✅ Work-in-progress disclaimers
-- ✅ Non-technical language
-- ✅ Conversational tone
-- ✅ 4-minute guided showcase
-- ✅ Troubleshooting tips
-
-### Quick Demo Overview (4 minutes)
-1. **Traffic Map** (45s) - Real-time Cape Town traffic conditions
-2. **Route Planner** (60s) - Airport to Waterfront with interactive map
-3. **Analytics** (45s) - Traffic volume patterns and insights
-4. **Predictions** (45s) - ML-powered 12-hour forecasting
-5. **Real-time Data** (30s) - Live monitoring dashboard
-
----
-
 ## 🛠️ **Development**
 
 ### Current Project Structure
